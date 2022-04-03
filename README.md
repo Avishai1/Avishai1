@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avishai1
 - 👀 I’m interested in building web apps and backend .Net projects
-- 🌱 I’m currently learning the new .net 6.0
+- 🌱 I’m currently learning the new .Net 6.0
 - 💞️ I’m looking to collaborate on various web projects
 - 📫 Just send me a message here
 
